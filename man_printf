@@ -1,4 +1,4 @@
-.\" Manpage for _printf.
+." Manpage for _printf.
 .TH _printf 1 "16 Mar 2021" "1.0" "_printf manpage"
 .so man1./_printf
 .SH NAME
