@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo -e "\e[3m\e[33mCompiling Program"
 gcc -Wall -Werror -Wextra -pedantic -Wno-format -std=gnu89 *.c
 # gcc -Wall -Werror -Wextra -pedantic -Wno-format -std=gnu99 *.c
